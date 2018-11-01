@@ -1,0 +1,11 @@
+.logo {
+  width: 220px;
+  height: 31px;
+  float: left;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+.table-column-center {
+  text-align: center
+}
